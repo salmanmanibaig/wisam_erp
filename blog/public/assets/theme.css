@@ -1,0 +1,5 @@
+.bg_image {
+    background-image: url("../images/download.png");
+    background-size: cover;
+}
+.no-top-padding{ padding-top: 0 !important; }
